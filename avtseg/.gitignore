@@ -1,0 +1,29 @@
+# datasets
+data/
+dataset/
+*.nrrd
+*.mha
+*.nii
+*.nii.gz
+
+# training outputs
+workdir/
+predictions/
+preprocessed/
+
+# models
+*.pt
+*.pth
+checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environments
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db

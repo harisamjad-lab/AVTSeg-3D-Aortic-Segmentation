@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+monai
+SimpleITK
+numpy
+scipy
+scikit-image
+tqdm
+plotly
+scikit-image
